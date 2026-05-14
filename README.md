@@ -37,3 +37,7 @@ unencrypted EVCC instance directly to the internet.
 ## AI Disclosure
 
 AI-assisted tools were used during the development of this integration.
+
+## Entity List Showcase
+
+<img width="392" height="885" alt="image" src="https://github.com/user-attachments/assets/243a081c-bf4b-46db-86bd-6deaa31f3c01" />
