@@ -24,9 +24,9 @@ The integration connects to EVCC at:
 ## Installation
 
 1. Add this repository to HACS as a custom repository of type `Integration`.
-2. Install `EVCC Loadpoints`.
+2. Install `EVCC`.
 3. Restart Home Assistant.
-4. Add the `EVCC Loadpoints` integration from `Settings -> Devices & services`.
+4. Add the `EVCC` integration from `Settings -> Devices & services`.
 5. Enter the EVCC host and port.
 
 ## Security Notes
