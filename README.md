@@ -1,3 +1,5 @@
+<img width="400" height="400" alt="logo_qg8JSfs-overlay" src="https://github.com/user-attachments/assets/427496a4-4033-4b9a-ba56-bf63c3a7975f" />
+
 # EVCC integration for Home Assistant
 
 `evcc-ha` is a thin custom integration for exposing EVCC loadpoints to Home
