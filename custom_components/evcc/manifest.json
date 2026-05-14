@@ -1,0 +1,16 @@
+{
+  "domain": "evcc",
+  "name": "EVCC",
+  "codeowners": [
+    "@einarjegorov"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/einarjegorov/evcc-ha",
+  "integration_type": "device",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/einarjegorov/evcc-ha/issues",
+  "loggers": [
+    "custom_components.evcc"
+  ],
+  "version": "0.1.0"
+}

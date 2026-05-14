@@ -1,0 +1,33 @@
+{
+  "title": "EVCC",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to EVCC",
+        "description": "Host/IP address and port of your EVCC instance.",
+        "data": {
+          "host": "Host / IP address",
+          "port": "Port",
+          "use_ssl": "Use HTTPS/WSS"
+        }
+      },
+      "reconfigure": {
+        "title": "Update EVCC connection",
+        "description": "Host/IP address and port of your EVCC instance.",
+        "data": {
+          "host": "Host / IP address",
+          "port": "Port",
+          "use_ssl": "Use HTTPS/WSS"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to EVCC",
+      "invalid_state": "EVCC did not return a valid loadpoint state",
+      "unknown": "Unexpected error"
+    },
+    "abort": {
+      "already_configured": "This EVCC instance is already configured"
+    }
+  }
+}
